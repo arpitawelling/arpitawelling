@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Arpita Welling 👋
 
 <!--
 **arpitawelling/arpitawelling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
++ :woman_student: Computer Science Graduate from Indiana University Bloomington
++ 🤓 Data Science and Machine Learning researcher
++ 👩‍💻 Software Developer
++ 🏋️‍♀️ Fitness enthusiast
++ 📖 Bookworm
+
+Visit my [LinkedIn profile](https://www.linkedin.com/in/arpita-welling/) for more information! 
