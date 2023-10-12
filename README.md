@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 + 🏋️‍♀️ Fitness enthusiast
 + 📖 Bookworm
 
-Visit my [LinkedIn profile](https://www.linkedin.com/in/arpita-welling/) for more information! 
+Visit my [LinkedIn profile](https://www.linkedin.com/in/arpita-welling/) for more information!   
 You can also look at my latest resume [here](https://drive.google.com/file/d/1sYjeDu2muYf_GgmPLrIyR8buJokmq5vs/view?usp=sharing)!
